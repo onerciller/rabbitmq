@@ -1,1 +1,1 @@
-# rmq
+# rabbitmq
